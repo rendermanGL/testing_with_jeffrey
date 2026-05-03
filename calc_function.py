@@ -9,7 +9,7 @@ def calculate_distance():
         return None
 
     print(f"The distance between {planet1} and {planet2} is {distance} million kilometers.")
-    return distance
+    return
 
 
 if __name__ == "__main__":
